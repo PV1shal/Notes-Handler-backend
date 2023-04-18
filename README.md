@@ -101,3 +101,8 @@ https://lighthall-challenge2-backend.herokuapp.com/
 
 Adding a Screenshot of what the document looks likes on mongodb:
 
+User:
+<img width="1755" alt="image" src="https://user-images.githubusercontent.com/113155188/232711181-ec631f32-d8c0-4993-ae2a-080a06e50661.png">
+
+Tasks:
+<img width="1756" alt="image" src="https://user-images.githubusercontent.com/113155188/232711235-4421c3e2-0aac-4092-a561-fffb83dd68fb.png">
